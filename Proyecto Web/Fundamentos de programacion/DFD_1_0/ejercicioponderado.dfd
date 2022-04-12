@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+24
+'Escriba la primer nota'
+5
+1
+7
+notauno
+4
+1
+21
+'Escriba la nota dos'
+5
+1
+7
+notados
+4
+1
+19
+'Escriba la nota 3'
+5
+1
+8
+notatres
+6
+1
+9
+resultado
+44
+(notauno*0.25)+(notados*0.25)+(notatres*0.5)
+4
+1
+9
+resultado
+1

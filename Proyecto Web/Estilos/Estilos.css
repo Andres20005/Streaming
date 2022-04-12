@@ -1,0 +1,107 @@
+/*selector universal*/
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background:#4DFFFF;
+  font-family: ´calibri´;
+}
+
+header {
+   background: #000000;
+   width: 100%;
+   clear: both;
+   content:´´;
+   display: table;
+   
+   }  
+   
+.menu {
+   width: 900px;
+   margin: 0auto;
+  
+}
+img {
+   width: 60px;
+   height: 50px;
+   float: left;
+   padding: 8px;
+   
+}
+
+nav {
+  float: right;
+}
+
+nav ul li {
+   list-style: none;
+   margin-left: 75px;
+   padding: 12px 0;
+   float: left;
+}
+
+nav ul li a {
+    text-decoration: underline;
+	color: #F4F4F4;
+	font-weight: bold;
+}
+
+nav ul li a::before {
+   display: blook;
+   content:´´;
+   width:0%;
+   background: #444;
+   height: 5px;
+   top: 0;
+   position: absolute;
+   transition: width 5s;
+}
+
+nav ul li a:hover::before {
+   width:100%;
+}
+
+*{margin :0px;
+  padding:0px;
+}
+
+div#Inicio {
+	margin:320px;
+	margin-top:20px;
+	width:640px;
+	height:250px;
+	background-color:#444;
+	color:#FFFFFF;
+}
+
+div#Mision {
+	margin-top:3px;
+	width:640px;
+	height:250px;
+	background-color:#000000;
+}
+div#Vision {
+	margin-top:30px;
+	width:640px;
+	height:250px;
+	background-color:#000000;
+}
+
+div#Equipos {
+	margin-top:30px;
+	width:640px;
+	height:250px;
+	background-color:#000000;
+}
+
+div#Contactanos {
+	margin-top:30px;
+	width:640px;
+	height:250px;
+	background-color:#000000;
+}
+

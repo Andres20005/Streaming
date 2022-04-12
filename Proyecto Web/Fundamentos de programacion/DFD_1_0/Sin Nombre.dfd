@@ -1,0 +1,71 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+12
+totalFactura
+1
+0
+4
+1
+53
+'Escriba la cantidad de productos que va a comprar: '
+5
+1
+13
+cantProductos
+8
+1
+1
+i
+1
+1
+1
+1
+13
+cantProductos
+1
+1
+1
+4
+1
+34
+'Escriba el precio del producto: '
+5
+1
+6
+precio
+4
+1
+21
+'Escriba la cantidad'
+5
+1
+8
+cantidad
+6
+3
+8
+valorIva
+11
+precio*0.19
+12
+precioConIva
+17
+precio + valorIva
+13
+valorProducto
+23
+precioConIva * cantidad
+6
+1
+12
+totalFactura
+28
+precioConIva + valorProducto
+10
+1
